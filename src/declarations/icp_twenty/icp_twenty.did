@@ -1,0 +1,4 @@
+service : {
+  createAchievement: (text) -> (text);
+  queryAll: () -> (vec text) query;
+}
